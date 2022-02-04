@@ -1,4 +1,21 @@
 
 body {
-	padding-left: 16px;
+	background-color: gray;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: red;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
 }
